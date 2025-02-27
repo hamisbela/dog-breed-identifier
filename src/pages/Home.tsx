@@ -4,7 +4,7 @@ import { analyzeImage } from '../lib/gemini';
 import SupportBlock from '../components/SupportBlock';
 
 // Default dog image path
-const DEFAULT_IMAGE = "/default-dog.jpg";
+const DEFAULT_IMAGE = "/default-dog.jfif";
 
 // Default analysis for the dog
 const DEFAULT_ANALYSIS = `1. Breed Identification:
